@@ -1,10 +1,10 @@
 import './App.css'
 import { Routes, Route } from "react-router-dom";
-import Address from "./pages/address/Address";
-import Profile from "./pages/profile/Profile";
+// import Address from "./pages/address/Address";
+// import Profile from "./pages/profile/Profile";
 import GetInTouch from "./pages/Getintouch/GetInTouch";
 import BmiCalc from './pages/Bmi/BmiCalc';
-import Root from "./components/Root";
+import Root from "./Components/Root";
 import HealthPackages from './Pages/Health package/HealthPackages';
 import Home from './Pages/home/Home';
 import About from './Pages/about/About';
@@ -45,8 +45,8 @@ function App() {
         <Route path="/Products" element={<Products handleAddToCart={handleAddToCart} products={products} setProducts={setProducts} />} />
         <Route path="/product-details" element={<ProductDetails selectedProduct={selectedProduct} cartProducts={cartProducts} />} />
 
-        <Route path="/address" element={<Address />} />
-        <Route path="/profile" element={<Profile />} />
+        {/* <Route path="/address" element={<Address />} /> */}
+        {/* <Route path="/profile" element={<Profile />} /> */}
         <Route path="/health" element={<HealthPackages />} />
         <Route path="/get_in_touch" element={<GetInTouch />} />
         <Route path="/bmi" element={<BmiCalc />} />
