@@ -1,13 +1,13 @@
 import './App.css'
 import { Routes, Route } from "react-router-dom";
-import About from "./pages/about/About";
 import Address from "./pages/address/Address";
 import Profile from "./pages/profile/Profile";
 import GetInTouch from "./pages/Getintouch/GetInTouch";
 import BmiCalc from './pages/Bmi/BmiCalc';
 import Root from "./components/Root";
 import HealthPackages from './Pages/Health package/HealthPackages';
-import Home from './Pages/home/Home.jsx';
+import Home from './Pages/home/Home';
+import About from './Pages/about/About';
 import {useState } from 'react';
 import Sign from './Components/sign/Sign';
 import Products from './Pages/Products/Products';
