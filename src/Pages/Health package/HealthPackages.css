@@ -1,0 +1,82 @@
+
+.price-header h3{
+  font-weight: 800;
+  font-family: Nunito;
+font-size: 75px;
+font-style: normal;
+}
+
+.First-card,.last-card{
+  background: rgba(149, 200, 74, 0.06) !important;
+  border: none !important;
+
+}
+.headerTitle1{
+  color: #242331;
+font-family: Nunito;
+font-size: 35px;
+font-style: normal;
+font-weight: 800;
+}
+
+.headerTitle3{
+  color: #242331;
+font-family: Montserrat;
+font-size: 21px;
+}
+
+.headerBtns1,.headerBtns3{
+  color: #797979 !important;
+font-family: Nunito !important;
+font-size: 18px !important;
+font-style: normal !important;
+font-weight: 600 !important;
+border-radius: 39px !important;
+background: #FFF !important;
+border: none !important;
+}
+.headerBtns3{
+  background: #F6F8FF !important;
+  color: #1594F8 !important;
+  font-weight: 1 !important;
+
+}
+
+.priceBtn1,.priceBtn3{
+  border-radius: 43px !important;
+  border: none !important;
+  color: var(--Style, #4D8D3F) !important;
+font-family: Nunito;
+font-size: 20px;
+background: rgba(235, 255, 206, 0.44) !important;
+}
+
+.getStartedBtns1,.getStartedBtns3{
+  border-radius: 39px !important;
+  color: #242331 !important;
+  background: transparent !important;
+border: 1px solid #D3D3D3 !important;
+}
+.center-card{
+  background: #87A96B !important;
+  border: none !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.headerBtns{
+  border-radius: 39px !important;
+background: #F6F8FF !important;
+color: #1594F8 !important;
+border: none !important;
+}
+
+.headerTitle{
+  color: #fff;
+font-family: Montserrat;
+font-style: normal;
+font-size: 20px;
+}
+.getStartedBtns{
+  border-radius: 39px;
+  border: none !important;
+background:#355E3B !important;
+}

@@ -1,0 +1,21 @@
+
+
+.quantityBtns{
+    width: 2rem;
+    height: 2rem;
+   padding: 0 !important;
+    background: #fff ;
+    border: 1px solid var(--1594-f-8, #1594F8);
+    color: #247CC6 ;
+    border-radius: 33% !important;
+}
+
+@media only screen and (max-width: 696px) {
+.quantityTitle{
+    margin-right: 0.3rem;
+}
+    .quantityBtns{
+        width: 1rem;
+        height: 2rem;
+    }
+}

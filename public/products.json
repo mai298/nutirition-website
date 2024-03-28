@@ -1,0 +1,105 @@
+[
+
+
+  
+
+    {
+        "id": 1,
+        "img":"img1.png",
+        "title": "Dymatize ISO 100",
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+      },
+      {
+        "id": 2,
+        "img":"img2.png",
+        "title": "Xtend Original BCAA",
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+      },
+
+
+      { 
+        "id":3,
+        "img":"img3.png" ,
+        "title":"Laperva Triple Mass Gainer"
+        ,
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+      },
+{
+   "id":4,
+   "img":"img4.png",
+   "title":"Body Builder Whey Protein"
+   ,
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+  },
+
+{ "id":5,
+"img":"img5.png" ,
+"title":"Dymatize ISO 100"
+,
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+},
+
+{
+   "id":6,
+   "img":"img6.png" ,
+"title":"Xtend Original BCAA"
+,
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+},
+{
+   "id":7,
+   "img":"img7.png",
+"title":"Laperva Triple Mass Gainer"
+,
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+},
+{
+   "id":8,
+   "img":"img8.png",
+"title":"Body Builder Whey Protein"
+,
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+},
+{
+   "id":9,
+   "img":"img9.png",
+"title":"Dymatize ISO 100"
+,
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+},
+{
+   "id":10,
+   "img":"img10.png" ,
+"title":"Xtend Original BCAA"
+,
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+},
+{
+   "id":11,
+   "img":"img11.png",
+"title":"Laperva Triple Mass Gainer"
+,
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+},
+{
+   "id":12,
+   "img":"img5.png",
+"title":"Body Builder Whey Protein"
+,
+        "paragraph": "Whey protein offers numerous benefits, making it a valuable nutritional source.",
+        "price": "$165.00"
+}
+    ]
+
+

@@ -1,0 +1,35 @@
+
+.about{
+  width: 100% !important;
+  height: 100% !important;
+}
+.about-title{
+  position: relative;
+
+}
+.bg-about{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+
+.about-header{
+  position: absolute;
+bottom: 0;
+font-size: 100px;
+}
+
+.first-about p{
+  width: 30rem;
+  max-width: 300px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #8b8b8b;
+}
+
+@media only screen and (max-width: 600px){
+  .about-header{
+    font-size: 50px;
+    top: 5rem;
+  }
+}

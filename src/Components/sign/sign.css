@@ -1,0 +1,22 @@
+.sign-section{
+    width: 100% !important;
+    height: 100% !important;
+background:#F5F5F5;
+}
+.sign-btn{
+    background: none !important;
+    border: none;
+    font-weight: bold;
+    color: #9e9d9d;
+}
+
+.sign-btn:hover{
+    color: #9e9d9d;
+}
+
+
+.log-row{
+    background: #fff !important;
+    width: 70rem;
+    border-radius: 1rem;
+}

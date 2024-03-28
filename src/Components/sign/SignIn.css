@@ -1,0 +1,21 @@
+
+.form-sign{
+  background: #fff;
+  border-radius:  15px;
+width: 30rem !important;
+}
+
+.submitBtn{
+  background: #355E3B;
+border-radius: 5px !important;
+}
+
+.submitBtn:hover{
+  background: #355E3B;
+}
+
+
+.password-input-container{
+  display: flex;
+  cursor: pointer;
+}

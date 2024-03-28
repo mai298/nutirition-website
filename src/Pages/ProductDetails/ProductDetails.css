@@ -1,0 +1,157 @@
+
+.payment-section{
+    background-color: #fff;
+        padding-top: 4rem;
+
+}
+
+/* payment method css */
+
+.pay-methods{
+    width: 50% !important;
+}
+
+.payment-method-title{
+ text-align: left; 
+margin-bottom: 31px;
+}
+
+.payment-radio{
+    display: flex;
+         align-items: center;
+       }
+.payment-details-para{
+
+text-align: left;
+         margin-top: 2rem;
+          margin-bottom: 45px;
+}
+.expiration-label{
+    display:block;
+margin-bottom: 15px;
+  color:#718096;
+   font-size:16px;
+        font-weight:500; 
+}
+.cvc-text{
+ display:block;
+  color:#718096;
+  margin-bottom:15px;
+   font-size:16px;
+font-weight:500;
+}
+.payment-agreement{
+    color: #898989;
+font-family: Spartan;
+font-size: 14px;
+text-align: left; 
+    margin-top: 30px;
+    margin-bottom:75.5px;
+}
+
+
+.paymentBtns{
+    display: flex;
+     margin-top: 16px;
+        margin-bottom:30px;
+}
+
+.cancelBtn,
+.completeBtns{
+    width: 200px;
+    height: 60px;
+    border-radius: 12px;
+    color:#4A5568 !important;
+    background: #fff !important;
+    border: 1px solid var(--1594-f-8, #355E3B);
+}
+.completeBtns{
+    background: #355E3B !important;
+    color: #F7FAFC !important;
+border: none !important;
+}
+
+.cancelBtn:hover{
+    border: 1px solid var(--1594-f-8, #355E3B);
+
+}
+/* orders css */
+
+.order-details{
+    padding: 0;
+    width: 31rem;
+    height: auto;
+    border-radius: 15px;
+border: 0.5px solid #D5D5D5 !important;
+background: rgba(246, 246, 246, 0.05);
+box-shadow: 0px 4px 46px 0px rgba(0, 0, 0, 0.11);
+}
+
+.order-titles{
+    color: #4F4F4F;
+        font-family: Neue Montreal;
+        font-size: 24px;
+        text-align: left;
+       
+
+}
+
+.order-title{
+    color: #4F4F4F;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+
+}
+
+.order-paragraph{
+    width: 253px;
+    color: var(--Gray-500, #667085);
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500 !important;
+}
+
+.order-imgs{
+    margin:0 auto;
+    width: 3rem;
+}
+
+
+hr{
+    width: 90%;
+    border: none;
+    color: #EFE7EC;
+    background-color: #EFE7EC;
+    margin-left: 20px;
+    padding: 0;
+  
+}
+
+.total,.subTotal{
+        display: flex;
+        justify-content: space-between;
+}
+
+
+@media only screen and (max-width: 696px) {
+
+    .paymentBtns{
+        flex-direction: column;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .cancelBtn,.completeBtns{
+        font-size: 17px !important;
+        margin-top: 0.5rem !important;
+        text-align: center !important;
+        width: 150px !important;
+    }
+
+    .pay-label{
+        font-size: 12px;
+    }
+    .completeBtns{
+        margin-right: 0.6rem;
+    }
+}

@@ -1,0 +1,17 @@
+.span-title{
+    color: #87A96B;
+}
+.header-title{
+    font-size: 54px;
+}
+.para{
+    width: 30rem;
+    font-size: 14px;
+    font-weight: bold;
+}
+.getBtn{
+    background: #355E3B !important;
+        width: 39rem !important;
+    height: 50px !important;
+    border: none !important;
+}

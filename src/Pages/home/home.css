@@ -1,0 +1,63 @@
+.home-section{
+  background-image: url('/src/data/imgs/pills-white.jpg');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+
+
+}
+
+.home-header{
+  color: #fff;
+  
+}
+.home-header h1{
+  font-size: 71px;
+  color:black ;
+}
+
+.home-header p{
+  font-size: 22px;
+  color:black ;
+}
+
+.homeBtn{
+  background-color: #355E3B !important;
+  border: none !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.services{
+  background-color: #87A96B;
+border-radius: 5px;
+}
+
+.services h5{
+font-size: 25px;
+color:#fff;
+max-width: 12.5rem;
+}
+.services img{
+  width: 55px !important;
+  height: 55px !important;
+}
+
+.contact-content h2,.swip-section h2{
+  color: #788397;
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+.contact-content p{
+  color:#788397;
+  text-align: center;
+}
+
+.submit-btn{
+  width: 10rem;
+  height: 3rem;
+  background: #355E3B !important;
+  border: none !important;
+  outline: none!important;
+  padding: 0 1rem !important;
+  border-radius: 2rem!important;
+}
